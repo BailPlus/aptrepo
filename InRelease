@@ -1,0 +1,23 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Date: Fri, 06 Dec 2024 03:41:46 +0000
+MD5Sum:
+ 148f0f675f99802d56da5430227c7d89            25431 Packages
+ 19a2ccb5056beac71bd6b1c602e612f1               38 Release
+SHA1:
+ 70102b063e5236ced3595d0daac32ffcff2bfd2c            25431 Packages
+ 34494b14d5f1cdf9bdefca1a9ae8fcb592acb894               38 Release
+SHA256:
+ fda7f884e4c089c1aa658f87a5333ebe3f4cba2651e7a7596388fe9b1703a2fa            25431 Packages
+ 127e2c888bb3600d4bee6b3b8a6d4bda21ac088176f47bacd48491480994b17b               38 Release
+SHA512:
+ 7faef26b2a6b370f6359ed364a4a3951b7944dd07fc6bf201413ad9a87e8fea566eb0c6df1bfdac86ffd5916f4ce903f2432244b9dcd647acd288023fdc660cf            25431 Packages
+ aaeff6ec11a73db79966e8f66aa957c474022ace031a787d31e248259d1d60611a1e61e7cea509d28be5fd6781b1feed6e304073891e9d717be208aa9a6bf627               38 Release
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQQsnSAHHEUaiOjztwglLlw3t/0xwAUCZ1JyfgAKCRAlLlw3t/0x
+wB3YAQDwuEh+l7JU9uZ+B0qyZih5mWmXYeBSh1hyh7WvtylyEAEA1/snjrEGLHpb
+gOeCgl4WISEDluWnWL4LfICxzA7EtQg=
+=7Psj
+-----END PGP SIGNATURE-----

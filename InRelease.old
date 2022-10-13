@@ -1,0 +1,23 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Date: Fri, 06 Dec 2024 03:28:01 +0000
+MD5Sum:
+ 148f0f675f99802d56da5430227c7d89            25431 Packages
+ ad5007b919dbad6585a3e3eb59bc5c0f               38 Release
+SHA1:
+ 70102b063e5236ced3595d0daac32ffcff2bfd2c            25431 Packages
+ e7ff89e5b9795eeb5dbcab00dab001bd8aebf99d               38 Release
+SHA256:
+ fda7f884e4c089c1aa658f87a5333ebe3f4cba2651e7a7596388fe9b1703a2fa            25431 Packages
+ d93f3b3d661710a935e3e834216689d3cf1d8aa3c65b7b5d26d6b6b3eae099ef               38 Release
+SHA512:
+ 7faef26b2a6b370f6359ed364a4a3951b7944dd07fc6bf201413ad9a87e8fea566eb0c6df1bfdac86ffd5916f4ce903f2432244b9dcd647acd288023fdc660cf            25431 Packages
+ 0e419b07692e0e770492b7cb41ed2fbffc69bac04c30b531a68a02feeea341641613f44f55eb3796e62372093883fbfbb76bdd6c3b91a1d11dedd82358799a11               38 Release
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQQsnSAHHEUaiOjztwglLlw3t/0xwAUCZ1JvQQAKCRAlLlw3t/0x
+wN6BAQDiUEpsgz7zhMYvMO90nKsxgPQpgc7teP/f1dM2vve1pAD/cxwfnadS+oJg
+qNjoNBlcU9ofGdD3EGc1/UdjiTtWxAo=
+=hQ+t
+-----END PGP SIGNATURE-----
